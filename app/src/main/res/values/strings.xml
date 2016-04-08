@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Exame</string>
+    <string name="enter">Entrar</string>
+    <string name="type_name_to_continue">Digite o seu nome para continuar</string>
+    <string name="name">Nome</string>
+    <string name="button_continue">Continue</string>
+    <string name="alphabet">abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="multiplication">*</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="division">/</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="addition">+</string>
+    <string name="equal">=</string>
+    <string name="zero">0</string>
+    <string name="subtraction">-</string>
+    <string name="back_to_previous_screen">Voltar a Tela Anterior</string>
+    <string name="empty_field_type_before_continue">Campo Vazio, preencha antes de continuar</string>
+    <string name="cant_divide_for_zero">Você não pode dividir por zero</string>
+</resources>
